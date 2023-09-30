@@ -70,7 +70,7 @@
   - `<aside>`: Defines side content.
   - `<section>`: Defines a section of a document.
 
- Certainly! Here's a list of common CSS properties with brief explanations in bullet points:
+### An explanation of the CSS properties listed Below:
 
 - **Color and Background:**
   - `color`: Sets the text color.
