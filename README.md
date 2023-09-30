@@ -1,5 +1,7 @@
 # NakheelDevelopers_Website
 ### Hosted Website Link: https://divyanshrajpoot9.github.io/NakheelDevelopers_Website/
+### HTML (Hypertext Markup Language) uses a variety of tags to structure web content. These tags provide the basic building blocks for creating web pages. 
+### Brief description of some of the most commonly used HTML tags:
 Certainly! Here's a brief explanation of the HTML tags and properties mentioned:
 
 - `<!DOCTYPE html>`: Specifies the HTML version being used for the document.
