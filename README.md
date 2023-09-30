@@ -69,9 +69,72 @@ Certainly! Here's a brief explanation of the HTML tags and properties mentioned:
   - `<aside>`: Defines side content.
   - `<section>`: Defines a section of a document.
 
+ Certainly! Here's a list of common CSS properties with brief explanations in bullet points:
 
+- **Color and Background:**
+  - `color`: Sets the text color.
+  - `background-color`: Sets the background color of an element.
 
+- **Typography:**
+  - `font-family`: Specifies the font for the text.
+  - `font-size`: Sets the size of the font.
+  - `font-weight`: Specifies the thickness of the font characters (e.g., bold).
+  - `font-style`: Sets the style of the font (e.g., italic).
 
+- **Spacing:**
+  - `margin`: Sets the margin outside an element.
+  - `padding`: Sets the padding inside an element.
+  - `border`: Sets the border of an element.
+
+- **Layout:**
+  - `width`: Sets the width of an element.
+  - `height`: Sets the height of an element.
+  - `display`: Defines the display behavior of an element (e.g., block, inline).
+
+- **Positioning:**
+  - `position`: Specifies the positioning method for an element (e.g., absolute, relative).
+  - `top`, `right`, `bottom`, `left`: Positions an element based on its parent or positioned ancestor.
+
+- **Flexbox:**
+  - `display: flex`: Enables the Flexbox layout for the element.
+  - `flex-direction`: Specifies the direction of the Flexbox layout (row, column).
+  - `justify-content`: Aligns items along the main axis in a Flexbox container.
+  - `align-items`: Aligns items along the cross axis in a Flexbox container.
+
+- **Grid:**
+  - `display: grid`: Enables the CSS Grid layout for the element.
+  - `grid-template-columns`: Specifies the columns in a grid layout.
+  - `grid-template-rows`: Specifies the rows in a grid layout.
+  - `grid-gap`: Sets the gap between grid items.
+
+- **Box Model:**
+  - `box-sizing`: Defines how the total width and height of an element are calculated.
+
+- **Text Styling:**
+  - `text-align`: Sets the horizontal alignment of text.
+  - `text-decoration`: Specifies decorations such as underline or overline.
+  - `line-height`: Sets the spacing between lines of text.
+
+- **Transforms and Transitions:**
+  - `transform`: Applies 2D or 3D transformations to an element.
+  - `transition`: Specifies transitions for CSS properties.
+
+- **Box Shadow and Border Radius:**
+  - `box-shadow`: Adds a shadow effect to an element.
+  - `border-radius`: Defines rounded corners for an element.
+
+- **Opacity and Visibility:**
+  - `opacity`: Sets the opacity level for an element.
+  - `visibility`: Specifies whether an element is visible or not.
+
+- **Overflow:**
+  - `overflow`: Defines the behavior when an element's content overflows its box.
+
+- **Z-Index:**
+  - `z-index`: Specifies the stack order of an element.
+
+- **Media Queries:**
+  - `@media`: Applies styles based on the device characteristics, such as width, height, or orientation.
 
 ![Screenshot 2023-10-01 004301](https://github.com/divyanshrajpoot9/NakheelDevelopers_Website/assets/114856467/08f6131b-b640-4bb6-8a3b-8cfa55b7e49e)
 ![Screenshot 2023-10-01 004339](https://github.com/divyanshrajpoot9/NakheelDevelopers_Website/assets/114856467/094cc1b4-980f-4bc6-bb99-3e2596c1cdf1)
